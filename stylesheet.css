@@ -1,0 +1,7 @@
+.hero__text, .header__link, .section-header__cta a, .input-field__label, button.button.button--primary, .header__dropdown-link { 
+  text-transform: uppercase !important; 
+}
+
+.section-header__cta a, .input-field__label, button.button.button--primary, .video-tile__title, .tile__heading { 
+ font-weight: 100 !important; 
+}
