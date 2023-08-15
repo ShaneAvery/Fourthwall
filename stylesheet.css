@@ -1,4 +1,4 @@
-.hero__text, .header__link, .section-header__cta a, .input-field__label, button.button.button--primary, .header__dropdown-link { 
+.hero__text, .header__link, .section-header__cta a, .input-field__label, button.button.button--primary, .header__dropdown-link, .dropdown__items a { 
   text-transform: uppercase !important; 
 }
 
