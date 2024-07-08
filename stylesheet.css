@@ -47,8 +47,7 @@
 }
 
 .pace.pace-inactive {
-	display: block;
-	background: white;
+	display: none;
 }
 
 .hero__text, .header__link, .section-header__cta a, .input-field__label, button.button.button--primary, .header__dropdown-link, .dropdown__item, #root.button { 
